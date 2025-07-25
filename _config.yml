@@ -337,7 +337,8 @@ compress_html:
     envs: development
 
 
-# near the bottom of your _config.yml
+# … other config …
+
 seo:
   extra_head: |
     <!-- Load Roboto from Google Fonts -->
@@ -354,4 +355,12 @@ seo:
       p, a, li, blockquote {
         font-family: 'Roboto', sans-serif !important;
       }
+
+      /* Make the profile picture perfectly square */
+      .author-profile img,
+      img.avatar,
+      .avatar {
+        border-radius: 0 !important;
+      }
     </style>
+
