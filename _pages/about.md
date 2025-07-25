@@ -15,8 +15,6 @@ I was a 2023 [Palladion Foundation](https://fondationpalladio.fr) fellow, and sp
 
 My research interests lie at the intersection between urban economics, environmental economics, and political economy. I use novel GIS data to build causal settings to evaluate how land use regulations shape housing markets in France, with considerations on optimal government levels. While I land use regulations cause major market distorsions, my larger research agenda also focuses how environmental regulations can help cities more resilient to climate change.
 
-#As geospatial fan, I know people always love a map, and I post some snapshots of the data I am working with on [this page](). 
-
 You can find my CV [here](https://www.dropbox.com/scl/fi/cjb5h575ikf9tenfw18m3/CV_JPV___Current.pdf?rlkey=814m3r99fu9ihmz9rchb04yln&st=tx527ate&dl=0)
 
 Don't hesitate to reach out at julia [dot] paul-venturine [at] psemail [dot] eu
