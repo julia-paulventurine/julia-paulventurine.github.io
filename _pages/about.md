@@ -13,16 +13,16 @@ I am currently completing my PhD jointly at [Paris School of Economics](https://
 I'll defend my dissertation on land use regulation and housing markets in December 2025. 
 
 I’m also an affiliate of the [LIEPP](https://www.sciencespo.fr/liepp/fr/) at Sciences Po .
-I was a 2023 laureate of the [Palladion Foundation](https://fondationpalladio.fr) fellowship, and spent Spring 2023 as a visiting scholar at the [Wharton School](https://www.wharton.upenn.edu) of the University of Pennsylvania, sponsored by [Gilles Duranton](https://real-faculty.wharton.upenn.edu/duranton/).
+I was a 2023 [Palladion Foundation](https://fondationpalladio.fr) fellow, and spent Spring 2023 as a visiting scholar at the [Wharton School](https://www.wharton.upenn.edu) of the University of Pennsylvania, sponsored by [Gilles Duranton](https://real-faculty.wharton.upenn.edu/duranton/).
 
 My research interests lie at the intersection between urban economics, environmental economics, and political economy. I use novel GIS data to build causal settings to evaluate how land use regulations shape housing markets in France, with considerations on optimal government levels. While I land use regulations cause major market distorsions, my larger research agenda also focuses how environmental regulations can help cities more resilient to climate change.
 
 As geospatial fan, I know people always love a map, and I post some snapshots of the data I am working with on [this page]. 
 
-You can find my CV here.
 
 You can follow me on BlueSky : @jpaulventurine
 
-Don't hesitate to reach out at julia.paul-venturine [at] psemail.eu
+Don't hesitate to reach out at julia [dot] paul-venturine [at] psemail [dot] eu
+
 ------
 
