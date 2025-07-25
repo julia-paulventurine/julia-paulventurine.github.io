@@ -11,43 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Paris School of Economics
+  * Ph.D in Economics, 2025 (expected)
+  * M.Sc. in Economics, 2019
+* ENS Paris-Saclay, 2015 - 2020
+* Paris 1 Panthéon-Sorbonne University, B.Sc. in Economics, 2016
 
-Work experience
+Research visits
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2023: Visiting scholar
+  * Wharton School of the University of Pennsylvania
+  * Sponsor: Gilles Duranton
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019 - 2020: Research Assistant
+  * Harvard University
+  * Supervisor: Stefanie Stancheva
+
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Grants
+======
+
   
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +52,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Representative for the PSE PhD students (2023-2025)
