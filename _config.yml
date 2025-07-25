@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "fr-FR"
 site_theme               : "default"
 title                    : "Julia Paul-Venturine"
 name                     : &name "Julia Paul-Venturine"
-description              : &description "personal description"
+#description              : &description ""
 url                      : https://julia-paulventurine.github.io/website # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "julia-paulventurine.github.io/website"
@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Julia Paul-Venturine"
   pronouns         : # example: "she/her"  
-  bio              : "Post-doctoral researcher at the University of Cologne"
-  #employer         : "Red Brick University"
+  bio              : > Post-doctoral researcher in urban and environmental economics
+  employer         : "University of Cologne"
   uri              : # URL
   email            : "julia.paul-venturine@psemail.eu" 
 
@@ -44,13 +44,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  # github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "@jpaulventurine" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
