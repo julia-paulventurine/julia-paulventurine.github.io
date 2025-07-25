@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Julia Paul-Venturine | Urban and environmental economist"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a postdoctoral researcher at the University of Cologne, funded by the Project ``Housing, Inequality and Public Policy'' supervised by [Sebastian Siegloch].
+I am a postdoctoral researcher at the University of Cologne, funded by the Project ``Housing, Inequality and Public Policy'' supervised by [Sebastian Siegloch](https://sites.google.com/view/siegloch/home).
 
 I am currently completing my PhD jointly at [Paris School of Economics](https://www.parisschoolofeconomics.eu) and [Paris 1 Panthéon-Sorbonne University](https://ed-economie.pantheonsorbonne.fr) under the supervision of [Laurent Gobillon](http://laurent.gobillon.free.fr) (PSE) and [Pierre-Philippe Combes](https://sites.google.com/view/pierrephilippecombes/) (Sciences Po).
 
