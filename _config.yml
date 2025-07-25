@@ -236,17 +236,6 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -258,15 +247,6 @@ defaults:
   - scope:
       path: ""
       type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
     values:
       layout: single
       author_profile: true
@@ -360,5 +340,21 @@ compress_html:
     envs: development
 
 
-custom_css:
-  - assets/css/custom.scss
+# near the bottom of your _config.yml
+seo:
+  extra_head: |
+    <!-- Load Roboto from Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+      rel="stylesheet"
+    >
+
+    <style>
+      /* Apply Roboto everywhere */
+      html, body, h1, h2, h3, h4, h5, h6,
+      p, a, li, blockquote {
+        font-family: 'Roboto', sans-serif !important;
+      }
+    </style>
