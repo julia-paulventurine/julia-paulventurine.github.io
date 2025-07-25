@@ -11,13 +11,13 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "GIS Snapshots"
     url: /portfolio/
     
   # - title: "CV"
