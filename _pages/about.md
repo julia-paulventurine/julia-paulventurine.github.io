@@ -11,7 +11,7 @@ I am a postdoctoral researcher at the University of Cologne, funded by the Proje
 I am currently completing my PhD jointly at [Paris School of Economics](https://www.parisschoolofeconomics.eu){:target="_blank"} and [Paris 1 Panthéon-Sorbonne University](https://ed-economie.pantheonsorbonne.fr){:target="_blank"} under the supervision of [Laurent Gobillon](http://laurent.gobillon.free.fr){:target="_blank"} (PSE) and [Pierre-Philippe Combes](https://sites.google.com/view/pierrephilippecombes/){:target="_blank"} (Sciences Po). I'll defend my dissertation in December 2025. 
 
 I’m also an affiliate of the [LIEPP](https://www.sciencespo.fr/liepp/fr/){:target="_blank"} in Sciences Po.
-I was a 2023 [Palladio Foundation](https://fondationpalladio.fr){:target="_blank"} fellow, and spent Spring 2023 as a visiting scholar at the [Wharton School](https://www.wharton.upenn.edu) of the University of Pennsylvania, sponsored by [Gilles Duranton](https://real-faculty.wharton.upenn.edu/duranton/){:target="_blank"}.
+I was a 2023 [Palladio Foundation](https://fondationpalladio.fr){:target="_blank"} fellow, and spent Spring 2023 as a visiting scholar at the [Wharton School](https://www.wharton.upenn.edu){:target="_blank"} of the University of Pennsylvania, sponsored by [Gilles Duranton](https://real-faculty.wharton.upenn.edu/duranton/){:target="_blank"}.
 
 My research interests lie at the intersection between urban economics, environmental economics, and political economy. I use novel granular GIS data in causal settings to evaluate how land use regulations shape housing markets in France. In particular, I'm interested in how environmental regulations can help cities more resilient to climate change while addressing affordability challenges.
 
