@@ -12,3 +12,27 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Roboto', system-ui, -apple-system, sans-serif !important;
   font-weight: 300 !important;
 }
+
+
+.portfolio-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.portfolio-item {
+  display: flex;
+  align-items: flex-start;
+}
+
+.portfolio-item img {
+  flex: 0 0 40%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.portfolio-info {
+  flex: 1;
+  padding-left: 1rem;
+}
