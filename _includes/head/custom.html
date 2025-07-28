@@ -52,14 +52,26 @@
   
   /* More specific than `img` alone, and loaded last */
   .portfolio-list .portfolio-item img {
-    max-width: 600px !important;
+    max-width: 700px !important;
     width: auto !important;
   }
   
   .portfolio-description {
-  width: 100% !important;
-  max-width: 600px !important;
-  text-align: left;
+    width: 100% !important;
+    max-width: 700px !important;
+    text-align: left;
+  }
+
+  @media (max-width: 600px) {
+  /* Make portfolio images fill the mobile viewport */
+  .portfolio-item img {
+    display: block !important;
+    width: 100vw !important;
+    max-width: 100vw !important;
+    margin-left: calc((100% - 100vw) / 2) !important;
+    height: auto !important;
+    object-fit: cover;
+  }
 }
   
 </style>
