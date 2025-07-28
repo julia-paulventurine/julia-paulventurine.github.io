@@ -62,13 +62,42 @@
     text-align: left;
   }
 
-  @media {
-  /* Make portfolio images fill the mobile viewport */
+@media (max-width: 600px) {
+  /* 1. Conserver un padding latéral pour ne pas coller l’image au bord */
+  .portfolio-list {
+    padding: 0 1rem !important;
+  }
+
+  /* 2. Chaque item en colonne, centré */
+  .portfolio-item {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    margin-bottom: 2rem !important;
+  }
+
+  /* 3. Image toujours à la largeur du container (donc de l’écran) */
   .portfolio-item img {
-    display: block;
+    display: block !important;
     width: 100% !important;
     max-width: 100% !important;
     height: auto !important;
+    margin-bottom: 1rem !important;
+    object-fit: contain !important;
+  }
+
+  /* 4. Texte sous l’image calé à la même largeur */
+  .portfolio-description {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 auto !important;
+    text-align: left !important;
+  }
+
+  /* (optionnel) Ajuste la taille du titre */
+  .portfolio-item h3 {
+    font-size: 1.4rem !important;
+    text-align: center !important;
   }
 }
   
