@@ -16,7 +16,7 @@ collection: publications
 
   ![Risk of flooding]({{ "/images/flooding.jpg" | relative_url }})
   </details>
-
+<br>
 
 - *Mayors strike back: Evidence from upzoning in France* \
   Guillaume Chapelle, **Julia Paul-Venturine**, and Camille Urvoy   
