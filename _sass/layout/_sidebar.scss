@@ -87,6 +87,7 @@
   // set width only, for non-square avatars
   // height: 36px;
 
+
   @include breakpoint($large) {
     display: block;
     width: auto;
@@ -264,11 +265,13 @@
   }
 }
 
+
 @media only screen and (max-width: 600px) {
-  /* show sidebar only on homepage */
-  .sidebar {
+  /* only show on the home page */
+  body.home .sidebar {
     display: block !important;
   }
+  /* hide on all other pages */
   body:not(.home) .sidebar {
     display: none !important;
   }
