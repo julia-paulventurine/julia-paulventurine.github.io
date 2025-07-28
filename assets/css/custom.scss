@@ -35,3 +35,13 @@ h1, h2, h3, h4, h5, h6 {
 .portfolio-description {
   margin-left: 0;
 }
+
+
+/* Profile picture square override */
+.author__avatar img,
+.author-profile__avatar img,
+img.avatar,
+.avatar {
+  border-radius: 0 !important;
+}
+
