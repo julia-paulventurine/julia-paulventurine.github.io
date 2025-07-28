@@ -12,6 +12,7 @@ collection: publications
   <details>
   <summary> Abstract </summary>
     Insurance coverage provides little incentive for households to adapt their dwellings to the natural risks to which they are exposed. This paper studies the housing market impacts of regulations that  limit development in at-risk areas and mandate protective building norms. Using a novel national dataset and variation in the timing and spatial scope of policy implementation, I provide evidence that these regulations initially strongly limit new housing supply, but the long-term decrease in quantities is modest as the supply elasticity increases. I further show that with full insurance coverage, households do not value adaptation but still negatively value living in risky locations, which evidences risk aversion against natural hazards. 
+    ![Risk of flooding](/images/flooding.jpg)
 <br>
 
 - *Mayors strike back: Evidence from upzoning in France* \
