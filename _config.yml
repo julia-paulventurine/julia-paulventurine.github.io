@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "fr-FR"
+locale                    : "fr-FR"
 #site_theme               : "default"
 title                    : "Julia Paul-Venturine"
 title_separator          : "|"
