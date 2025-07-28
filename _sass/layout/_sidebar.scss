@@ -263,3 +263,13 @@
     }
   }
 }
+
+@media only screen and (max-width: 600px) {
+  /* show sidebar only on homepage */
+  .sidebar {
+    display: block !important;
+  }
+  body:not(.home) .sidebar {
+    display: none !important;
+  }
+}
