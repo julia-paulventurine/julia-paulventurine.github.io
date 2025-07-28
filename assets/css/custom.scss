@@ -87,13 +87,16 @@ img.avatar,
     text-align: center !important;
   }
 
-    /* Sidebar only on the mobile homepage */
-  body.home .sidebar {
-    display: block !important;
-  }
-  body:not(.home) .sidebar {
+  /* 1. Par défaut, on cache l’avatar sur toutes les pages */
+  .author__avatar,
+  .author-profile__avatar {
     display: none !important;
   }
-  
+
+  /* 2. Sauf sur la page d’accueil mobile */
+  body.home .author__avatar,
+  body.home .author-profile__avatar {
+    display: block !important;
+  }
 }
   
