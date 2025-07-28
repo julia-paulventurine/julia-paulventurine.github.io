@@ -46,3 +46,36 @@ img.avatar,
   border-radius: 0 !important;
 }
 
+
+/* Mobile responsiveness */
+@media (max-width: 600px) {
+  .portfolio-list {
+    gap: 1.5rem;
+  }
+
+  .portfolio-item img {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .portfolio-item h3 {
+    font-size: 1.5rem;
+  }
+
+  .portfolio-item {
+    padding: 0 1rem;
+  }
+
+  /* Hide follow button in sidebar on mobile */
+  .sidebar button.follow,
+  .sidebar .btn-follow {
+    display: none !important;
+  }
+}
+
+/* Hide sidebar on all pages except the homepage */
+body:not(.home) .sidebar {
+  display: none !important;
+}
+
+
