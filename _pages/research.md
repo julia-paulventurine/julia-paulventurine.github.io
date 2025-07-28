@@ -5,7 +5,7 @@ permalink: /research/
 collection: publications
 ---
 
-**Drafts availables upon request**
+**Drafts available upon request**
 
 - *Build at your own risk. Integrating natural hazards into land use regulations* \
   **Julia Paul-Venturine** 
