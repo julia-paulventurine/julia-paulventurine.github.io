@@ -10,6 +10,7 @@
 locale                   : "fr-FR"
 #site_theme               : "default"
 title                    : "Julia Paul-Venturine"
+title_separator          : "|"
 name                     : &name "Julia Paul-Venturine"
 #description              : &description ""
 url                      : "https://julia-paulventurine.github.io"
