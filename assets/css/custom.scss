@@ -78,4 +78,14 @@ body:not(.home) .sidebar {
   display: none !important;
 }
 
+/* Reduce text width on archive pages */
+@media (min-width: 600px) {
+  body.archive main.container,
+  body.page-archive main.container {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 
