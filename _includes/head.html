@@ -32,6 +32,6 @@
   {% if page.url == home_url %}
     {{ site.title }}
   {% else %}
-    {{ page.title }} | {{ site.title }}
+    {{ page.seo.title | default: page.title }} | {{ site.title }}
   {% endif %}
 </title>
