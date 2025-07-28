@@ -16,7 +16,7 @@ collection: publications
 <br>
 
 - *Mayors strike back: Evidence from upzoning in France* \
-  With Guillaume Chapelle and Camille Urvoy   
+  with Guillaume Chapelle and Camille Urvoy   
   <details>
   <summary> Abstract </summary>
    To address rising housing prices, national governments have increasingly sought to relax local land use rules through “upzoning” reforms. Yet the effectiveness of such top-down policies remains uncertain. This paper examines the impact of a reform in France that abolished floor area ratios (FAR) from unique zoning data in the Paris Urban area. We exploit within-municipality variation in pre-reform FAR coverage through a difference-in-differences strategy. We show that local governments responded by tightening other regulatory tools, such as maximum heights and building coverage ratios, and increasing permit refusals. These countervailing responses undermined the deregulatory intent of the reform, resulting in negligible effects on real estate markets. Our findings highlight the political and institutional limits of central government efforts to override local zoning decisions.
@@ -24,7 +24,7 @@ collection: publications
 <br>
 
 - *What is France worth ? Residential land value estimates* \
-  With Guillaume Chapelle, Arthur Lemoine, Alain Trannoy, and Etienne Wasmer  
+  with Guillaume Chapelle, Arthur Lemoine, Alain Trannoy, and Etienne Wasmer  
   <details>
   <summary> Abstract </summary>
     This paper provides a new methodology to estimate the value of residential land at the local level. We assemble a unique, quasi-exhaustive dataset of land transactions across metropolitan France from 2010 to 2019, covering both single-family and multi-family developments. We document a striking divergence in land price dynamics: multi-family land prices grew five times faster than single-family land prices. We develop two families of predictive models, namely hedonic regressions and machine learning algorithms. Hedonic regressions show more credible aggregated and microeconomic results, despite worse predictive performance on multi-family markets.
