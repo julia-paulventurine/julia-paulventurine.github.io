@@ -15,7 +15,6 @@ collection: publications
 
 <br>
 
-
 - *Mayors strike back: Evidence from upzoning in France* \
   Guillaume Chapelle, Julia Paul-Venturine, and Camille Urvoy   
   <details>
@@ -23,7 +22,6 @@ collection: publications
    To address rising housing prices, national governments have increasingly sought to relax local land use rules through “upzoning” reforms. Yet the effectiveness of such top-down policies remains uncertain. This paper examines the impact of a reform in France that abolished floor area ratios (FAR) from unique zoning data in the Paris Urban area. We exploit within-municipality variation in pre-reform FAR coverage through a difference-in-differences strategy. We show that local governments responded by tightening other regulatory tools, such as maximum heights and building coverage ratios, and increasing permit refusals. These countervailing responses undermined the deregulatory intent of the reform, resulting in negligible effects on real estate markets. Our findings highlight the political and institutional limits of central government efforts to override local zoning decisions.
 
 <br>
-
 
 - *What is France worth ? Residential land value estimates* \
   Guillaume Chapelle, Arthur Lemoine, Julia Paul-Venturine, Alain Trannoy, and Etienne Wasmer  
