@@ -49,16 +49,17 @@ img.avatar,
 }
 
 
-
 /* Mobile responsiveness */
-@media (max-width: 600px) {
+@media {
   .portfolio-list {
     gap: 1.5rem;
   }
 
   .portfolio-item img {
+    display: block;
     width: 100% !important;
     max-width: 100% !important;
+    height: auto !important;
   }
 
   .portfolio-item h3 {
@@ -82,7 +83,7 @@ body:not(.home) .sidebar {
 }
 
 /* Show sidebar only on the mobile homepage */
-@media (max-width: 600px) {
+@media {
   .sidebar {
     display: block !important;
   }
