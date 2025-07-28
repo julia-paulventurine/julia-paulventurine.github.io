@@ -20,4 +20,18 @@
 
 <meta http-equiv="cleartype" content="on">
 
-<title>{{ page.title }} | {{ site.title }}</title>
+{% include base_path %}
+
+<meta charset="utf-8">
+{% include seo.html %}
+<!-- other meta & links… -->
+
+{% assign home_url = base_path | append: "/" %}
+
+<title>
+  {% if page.url == home_url %}
+    {{ site.title }}
+  {% else %}
+    {{ page.title }} | {{ site.title }}
+  {% endif %}
+</title>
