@@ -6,14 +6,14 @@ collection: teaching
 ---
 
 **Sciences Po** \
-Spring 2024: Instructor, *Advanced Public Economics*, Housing Economics module [4 hours], Graduate \
-Fall 2022: Teaching assistant, *Public policy analysis with R*, Graduate \
-Fall 2020 to 2022: Teaching assistant, *Public policy evaluation*, Graduate \
-Fall 2021: Instructor, *Tools for critical data analysis*, Undergraduate \
-Fall 2019: Instructor, *Mathematics for quantitative social sciences*, Undergraduate \
+* *Advanced Public Economics*, Housing Economics module [4 hours], Instructor, Graduate (Spring 2024) \
+* *Public policy analysis with R*, TA, Graduate,  (Fall 2022) \
+* *Public policy evaluation*, TA, Graduate (Fall 2020 to 2022) \
+* *Tools for critical data analysis*, Instructor, Undergraduate (Fall 2021) \
+* *Mathematics for quantitative social sciences*, Instructor, Undergraduate (Fall 2019) \
 <br>
 **Paris 1 University** \
-Spring 2021 and 2022: Teaching assistant, Introductory econometrics, Undergraduate \
+*Introductory econometrics*, TA, Undergraduate (Spring 2021 and 2022) \
 <br>
 **Lycée Lakanal**, Sceaux \
-Teaching assistant, *Mathematics*, Undergraduate 2016\
+*Mathematics*, TA, Undergraduate 2016\
