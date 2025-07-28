@@ -99,6 +99,18 @@
     font-size: 1.4rem !important;
     text-align: center !important;
   }
+  
+  .author__avatar,
+  .author-profile__avatar {
+    display: none !important;
+  }
+
+  /* 2. Sauf sur la page d’accueil mobile */
+  body.home .author__avatar,
+  body.home .author-profile__avatar {
+    display: block !important;
+  }
+  
 }
   
 </style>
