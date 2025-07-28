@@ -3,15 +3,12 @@ layout: archive
 ---
 <div class="portfolio-list">
   {% for project in site.portfolio %}
-  <div class="portfolio-item">
-    <img src="{{ project.image | relative_url }}"
-         alt="{{ project.title }}">
-    <div class="portfolio-info">
-      <h3><a href="{{ project.url | relative_url }}">
-        {{ project.title }}
-      </a></h3>
-      {{ project.content | markdownify }}
+    <div class="portfolio-item">
+      <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
+      <img src="{{ project.image | relative_url }}" alt="{{ project.title }}">
+      <div class="portfolio-description">
+        {{ project.content | markdownify }}
+      </div>
     </div>
-  </div>
   {% endfor %}
 </div>
