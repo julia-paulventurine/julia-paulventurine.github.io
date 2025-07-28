@@ -49,27 +49,28 @@ img.avatar,
 }
 
 
-/* Mobile responsiveness */
-@media {
-  .portfolio-list {
-    gap: 1.5rem;
+
+@media (max-width: 300px) {
+  /* 1. Ensure the main container scales down with side padding */
+  .container, main.container {
+    width: auto !important;
+    margin: 0 1rem !important;
+    padding: 0 0 !important;
   }
 
-  .portfolio-item img {
-    display: block;
+  /* 2. Make *all* images fill their parent/container width */
+  img {
+    display: block !important;
     width: 100% !important;
     max-width: 100% !important;
     height: auto !important;
+    margin: 0 auto !important;
   }
 
-  .portfolio-item h3 {
-    font-size: 1.5rem;
+  /* 3. If you want to limit portfolio image height, add object-fit */
+  .portfolio-item img {
+    object-fit: cover !important;
   }
-
-  .portfolio-item {
-    padding: 0 1rem;
-  }
-
   /* Hide follow button in sidebar on mobile */
   .sidebar button.follow,
   .sidebar .btn-follow {
