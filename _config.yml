@@ -359,11 +359,10 @@ seo:
         font-family: 'Roboto', sans-serif !important;
       }
 
-      /* Make the profile picture perfectly square */
-      .author-profile img,
-      img.avatar,
-      .avatar {
-        border-radius: 0 !important;
-      }
     </style>
+    
+custom_css:
+  - assets/css/custom.scss
+
+  
 
