@@ -12,8 +12,8 @@ collection: teaching
 * *Tools for critical data analysis*, Instructor, Undergraduate (Fall 2021) 
 * *Mathematics for quantitative social sciences*, Instructor, Undergraduate (Fall 2019) \
 <br>
-**Paris 1 University** \
-* *Introductory econometrics*, TA, Undergraduate (Spring 2021 and 2022) \
+**Paris 1 University** 
+* *Introductory econometrics*, TA, Undergraduate (Spring 2021 and 2022) 
 <br>
-**Lycée Lakanal**, Sceaux \
-* *Mathematics*, TA, Undergraduate 2016 \
+**Lycée Lakanal**, Sceaux 
+* *Mathematics*, TA, Undergraduate 2016 
