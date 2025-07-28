@@ -19,3 +19,4 @@ collection: teaching
 
 **Lycée Lakanal**, Sceaux 
 * *Mathematics*,  Undergraduate  - 2016
+<br>
