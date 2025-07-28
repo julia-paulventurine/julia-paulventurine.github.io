@@ -83,15 +83,31 @@ body:not(.home) .sidebar {
   display: none !important;
 }
 
-/* Show sidebar only on the mobile homepage */
-@media {
-  .sidebar {
+@media (max-width: 600px) {
+  /* Images fill the screen */
+  .portfolio-item img {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    margin: 0 auto !important;
+    object-fit: contain !important;
+  }
+
+  /* Text under images matches width */
+  .portfolio-description {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 1rem 2rem 1rem !important;
+    text-align: left !important;
+  }
+
+  /* Sidebar only on the mobile homepage */
+  body.home .sidebar {
     display: block !important;
   }
   body:not(.home) .sidebar {
     display: none !important;
   }
 }
-
-
 
