@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-<div class="view-mobile">
+<div class="view-mobile" markdown="1">
   
  ![Profile](/images/profile.png)
 
