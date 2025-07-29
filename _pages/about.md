@@ -6,6 +6,12 @@ redirect_from:
   - /about.html
 ---
 
+<div class="view-mobile">
+  
+![Profile](/images/profile.png)
+
+</div>
+
 I am a postdoctoral researcher at the University of Cologne, funded by the ERC Project "Housing, Inequality and Public Policy" supervised by [Sebastian Siegloch](https://sites.google.com/view/siegloch/home){:target="_blank"}.
 
 I am currently completing my PhD jointly at [Paris School of Economics](https://www.parisschoolofeconomics.eu){:target="_blank"} and [Paris 1 Panthéon-Sorbonne University](https://ed-economie.pantheonsorbonne.fr){:target="_blank"} under the supervision of [Laurent Gobillon](http://laurent.gobillon.free.fr){:target="_blank"} (PSE) and [Pierre-Philippe Combes](https://sites.google.com/view/pierrephilippecombes/){:target="_blank"} (Sciences Po). I'll defend my dissertation in December 2025. 
