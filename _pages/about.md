@@ -8,7 +8,7 @@ redirect_from:
 
 <div class="view-mobile" markdown="1">
   
- ![Profile](/images/profile.png)
+ <img src="/images/profile.png" alt="Profile" />
 
 </div>
 
