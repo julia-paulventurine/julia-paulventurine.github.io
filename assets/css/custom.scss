@@ -1,6 +1,10 @@
 ---
 ---
 
+.view-mobile {
+  display: none;
+}
+
 /* 1. Import Roboto (regular and bold) */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
@@ -46,25 +50,25 @@ img.avatar,
   border-radius: 0 !important;
 }
 
-.view-mobile {
-  display: none;
-}
+
 
 
 @media (max-width: 700px) {
-  /* 1. Conserver un padding latéral pour ne pas coller l’image au bord */
+
+  .view-mobile {
+    display: block !important;
+  }
+
   .portfolio-list {
     padding: 0 1rem !important;
   }
 
-  /* 2. Chaque item en colonne, centré */
   .portfolio-item {
     display: flex !important;
     flex-direction: column !important;
     margin-bottom: 2rem !important;
   }
 
-  /* 3. Image toujours à la largeur du container (donc de l’écran) */
   .portfolio-item img {
     display: block !important;
     width: 100% !important;
@@ -74,33 +78,26 @@ img.avatar,
     object-fit: contain !important;
   }
 
-  /* 4. Texte sous l’image calé à la même largeur */
   .portfolio-description {
     width: 100% !important;
     max-width: 100% !important;
     text-align: left !important;
   }
 
-  /* (optionnel) Ajuste la taille du titre */
   .portfolio-item h3 {
     font-size: 1.4rem !important;
   }
 
-  /* 1. Par défaut, on cache l’avatar sur toutes les pages */
   .author__avatar,
   .author-profile__avatar {
     display: none !important;
   }
 
-  /* 2. Sauf sur la page d’accueil mobile */
   body.home .author__avatar,
   body.home .author-profile__avatar {
     display: block !important;
   }
 
-  .view-mobile {
-    display: block !important;
-  }
-  
+
 }
   
