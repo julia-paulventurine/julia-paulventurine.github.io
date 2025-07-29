@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .portfolio-item img {
   width: 100% !important;      /* fill parent up to max */
-  max-width: 600px !important; /* cap at 600px or less on larger screens */
+  max-width: 100% !important;  /* cap at 600px or less on larger screens */
   height: auto;
   margin-bottom: 1rem;
   border-radius: 4px;
