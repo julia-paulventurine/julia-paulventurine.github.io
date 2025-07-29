@@ -8,7 +8,7 @@ redirect_from:
 
 <div class="view-mobile" markdown="1">
   
- <img src="/images/profile.png" alt="Profile" />
+ <img src="{{ '/images/profile.png' | relative_url }}" alt="Profile" />
 
 </div>
 
