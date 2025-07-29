@@ -8,7 +8,7 @@ redirect_from:
 
 <div class="view-mobile">
   
-![Profile](/images/profile.png)
+ ![Profile]({{ '/images/profile.png' | relative_url }})
 
 </div>
 
