@@ -15,6 +15,9 @@ layout: compress
   <body class="{% if page.url == home_url %}home{% endif %}">
     {% include browser-upgrade.html %}
     {% include masthead.html %}
+    {% if page.url == home_url %}
+      {% include sidebar.html %}
+    {% endif %}
     {{ content }}
     <div class="page__footer">
       <footer>
