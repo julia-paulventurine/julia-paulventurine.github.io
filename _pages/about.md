@@ -19,9 +19,9 @@ I am currently completing my PhD jointly at [Paris School of Economics](https://
 I’m also an affiliate of the [LIEPP](https://www.sciencespo.fr/liepp/fr/){:target="_blank"} in Sciences Po.
 I was a 2023 [Palladio Foundation](https://fondationpalladio.fr){:target="_blank"} fellow, and spent Spring 2023 as a visiting scholar at the [Wharton School](https://www.wharton.upenn.edu){:target="_blank"} of the University of Pennsylvania, sponsored by [Gilles Duranton](https://real-faculty.wharton.upenn.edu/duranton/){:target="_blank"}.
 
-My research interests lie at the intersection between urban economics, environmental economics, and political economy. I use novel granular GIS data in causal settings to evaluate how land use regulations shape housing markets in France. In particular, I'm interested in how environmental regulations can help cities become more resilient to climate change while addressing affordability challenges.
+My research interests lie at the intersection between urban economics, environmental economics, and political economy. I use novel granular GIS data in causal settings to evaluate how land use regulations shape housing markets in France. In particular, I'm interested in how environmental regulations can help cities become more resilient to climate change, while addressing affordability challenges.
 
-You can find my CV [here](https://www.dropbox.com/scl/fi/cjb5h575ikf9tenfw18m3/CV_JPV___Current.pdf?rlkey=814m3r99fu9ihmz9rchb04yln&st=tx527ate&dl=0){:target="_blank"}
+You can find my CV [here](https://www.dropbox.com/scl/fi/cjb5h575ikf9tenfw18m3/CV_JPV___Current.pdf?rlkey=814m3r99fu9ihmz9rchb04yln&st=tx527ate&dl=0){:target="_blank"}.
 
 Don't hesitate to reach out at julia [dot] paul-venturine [at] psemail [dot] eu
 
