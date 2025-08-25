@@ -150,12 +150,6 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
-# _config.yml
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-0VQSPGWFW7"
 
 
 custom_css:
