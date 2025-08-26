@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 collection: publications
+author_profile: false
 ---
 
 **Drafts available upon request**
