@@ -4,8 +4,6 @@ title: "Teaching"
 permalink: /teaching/
 collection: teaching
 author_profile: false
-header:
-  overlay_image: /images/ppr.png
 ---
 
 **Sciences Po** 
