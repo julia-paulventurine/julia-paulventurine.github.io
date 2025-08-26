@@ -26,4 +26,3 @@ You can find my CV [here](https://www.dropbox.com/scl/fi/cjb5h575ikf9tenfw18m3/C
 Don't hesitate to reach out at julia [dot] paul-venturine [at] psemail [dot] eu
 
 ------
-
