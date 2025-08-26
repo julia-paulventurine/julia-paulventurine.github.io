@@ -5,6 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 title: ""
+excerpt: ""
 header:
   overlay_image: /images/soulac_signal.jpeg
   show_overlay_excerpt : false
