@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research/
 collection: publications
 author_profile: false
-classes : wide
 ---
 
 **Drafts available upon request**
