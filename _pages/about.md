@@ -4,6 +4,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_image: /images/soulac_signal.jpeg
 ---
 
 <div class="view-mobile" markdown="1">
