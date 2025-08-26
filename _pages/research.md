@@ -4,6 +4,9 @@ title: "Research"
 permalink: /research/
 collection: publications
 author_profile: false
+header:
+  overlay_image: /images/arn_plu.png
+  caption: "Photo credit: Nelly Monnier et Eric Tabuchi, Atlas des Régions Naturelles"
 ---
 
 **Drafts available upon request**
