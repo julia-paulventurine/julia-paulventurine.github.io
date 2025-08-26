@@ -30,3 +30,5 @@ author_profile: false
   <summary> Abstract </summary>
     This paper provides a new methodology to estimate the value of residential land at the local level. We assemble a unique, quasi-exhaustive dataset of land transactions across metropolitan France from 2010 to 2019, covering both single-family and multi-family developments. We document a striking divergence in land price dynamics: multi-family land prices grew five times faster than single-family land prices. We develop two families of predictive models, namely hedonic regressions and machine learning algorithms. Hedonic regressions show more credible aggregated and microeconomic results, despite worse predictive performance on multi-family markets.
   </details>
+
+
