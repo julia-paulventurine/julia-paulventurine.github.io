@@ -6,7 +6,7 @@ collection: publications
 author_profile: false
 ---
 
-**Drafts available upon request**
+**Working papers / Drafts available upon request**
 
 - *Build at your own risk. Integrating natural hazards into land use regulations* \
   [Solo-authored]
@@ -31,4 +31,8 @@ author_profile: false
     This paper provides a new methodology to estimate the value of residential land at the local level. We assemble a unique, quasi-exhaustive dataset of land transactions across metropolitan France from 2010 to 2019, covering both single-family and multi-family developments. We document a striking divergence in land price dynamics: multi-family land prices grew five times faster than single-family land prices. We develop two families of predictive models, namely hedonic regressions and machine learning algorithms. Hedonic regressions show more credible aggregated and microeconomic results, despite worse predictive performance on multi-family markets.
   </details>
 
+** Work in progress **
+
+- *A Giant with Feet of Clay: Public Reinsurance and Climate Change* \
+  with Sacha Nass
 
