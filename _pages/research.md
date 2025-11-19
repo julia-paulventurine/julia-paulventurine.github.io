@@ -6,9 +6,9 @@ collection: publications
 author_profile: false
 ---
 
-**Working papers / Drafts available upon request**
+**Working papers**
 
-- *Build at your own risk. Integrating natural hazards into land use regulations* \
+- *Build at your own risk. Integrating natural hazards into land use regulations* (Draft available upon request)\
   [Solo-authored]
   <details>
   <summary> Abstract </summary>
@@ -16,7 +16,7 @@ author_profile: false
   </details>
 <br>
 
-- *Mayors strike back: Evidence from upzoning in France* [Available here](https://ideas.repec.org/p/hal/wpaper/halshs-05329475.html){:target="_blank"} \
+- *Mayors strike back: Evidence from upzoning in France* [(Available here)](https://ideas.repec.org/p/hal/wpaper/halshs-05329475.html){:target="_blank"} \
   with [Guillaume Chapelle](https://sites.google.com/view/guillaume-chapelle/home){:target="_blank"} and [Camille Urvoy](https://sites.google.com/view/camille-urvoy/home){:target="_blank"}   
   <details>
   <summary> Abstract </summary>
