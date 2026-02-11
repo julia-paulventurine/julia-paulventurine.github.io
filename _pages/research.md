@@ -8,7 +8,7 @@ author_profile: false
 
 **Working papers**
 
-- *Build at your own risk. Integrating natural hazards into land use regulations* (Draft available upon request)\
+- *Build at your own risk. Integrating natural hazards into land use regulations* ([Available here](https://hal.science/halshs-05428716v1){:target="_blank"})\
   [Solo-authored]
   <details>
   <summary> Abstract </summary>
