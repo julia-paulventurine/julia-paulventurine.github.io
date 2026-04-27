@@ -7,7 +7,7 @@ author_profile: false
 ---
 
 **Sciences Po** 
-* *Advanced Public Economics*, Housing Economics module [4 hours], Graduate - Spring 2024 
+* *Advanced Public Economics*, Housing Economics module [4 hours], Graduate - Spring 2025 and 2026
 * *Public policy analysis with R*, Graduate - Fall 2022
 * *Public policy evaluation*, Graduate - Fall 2020 to 2022 
 * *Tools for critical data analysis*, Undergraduate - Fall 2021
