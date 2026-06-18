@@ -37,7 +37,7 @@ author_profile: false
 - *A Giant with Feet of Clay: insurance, building standards, and risk capitalization* \
   with Sacha Nass
 
-- * New construction in declining areas: Housing depreciation, historical protection, and urban center decline'' \
+- *New construction in declining areas: Housing depreciation, historical protection, and urban center decline* \
   with [François Lafont](sites.google.com/view/francoislafont11/research){:target="_blank"} 
 
 - *Optimal spatial household allocation through the natural risk exposure lense* \ with Sophie Cêtre
