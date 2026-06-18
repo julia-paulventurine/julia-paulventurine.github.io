@@ -8,7 +8,7 @@ author_profile: false
 
 **Working papers**
 
-- *Build at your own risk. Integrating natural hazards into land use regulations* ([Available here](https://hal.science/halshs-05428716v1){:target="_blank"})\
+- *Build at your own risk. Integrating natural hazards into land use regulations* [New draft coming soon!]\
   [Solo-authored]
   <details>
   <summary> Abstract </summary>
@@ -24,16 +24,21 @@ author_profile: false
    </details>
 <br>
 
-- *What is France worth ? Residential land value estimates* \
+- *The other half of the market. Multifamily land and the measurement of urban land values in France* [Working paper available upon demand]\
+    with [Guillaume Chapelle](https://sites.google.com/view/guillaume-chapelle/home){:target="_blank"}, Arthur Lemoine, [Alain Trannoy](https://perso.amse-aixmarseille.fr/trannoy){:target="_blank"}, and [Etienne Wasmer](https://sites.google.com/site/etiennewasmer){:target="_blank"}
+<br> 
+
+- *What is France worth ? Residential land value estimates* [Working paper available upon demand] \
   with [Guillaume Chapelle](https://sites.google.com/view/guillaume-chapelle/home){:target="_blank"}, Arthur Lemoine, [Alain Trannoy](https://perso.amse-aixmarseille.fr/trannoy){:target="_blank"}, and [Etienne Wasmer](https://sites.google.com/site/etiennewasmer){:target="_blank"}
-  <details>
-  <summary> Abstract </summary>
-    This paper provides a new methodology to estimate the value of residential land at the local level. We assemble a unique, quasi-exhaustive dataset of land transactions across metropolitan France from 2010 to 2019, covering both single-family and multi-family developments. We document a striking divergence in land price dynamics: multi-family land prices grew five times faster than single-family land prices. We develop two families of predictive models, namely hedonic regressions and machine learning algorithms. Hedonic regressions show more credible aggregated and microeconomic results, despite worse predictive performance on multi-family markets.
-  </details>
 <br>
 
 **Work in progress**
 
-- *A Giant with Feet of Clay: Public Reinsurance and Climate Change* \
+- *A Giant with Feet of Clay: insurance, building standards, and risk capitalization* \
   with Sacha Nass
+
+- * New construction in declining areas: Housing depreciation, historical protection, and urban center decline'' \
+  with [François Lafont](sites.google.com/view/francoislafont11/research){:target="_blank"} 
+
+- *Optimal spatial household allocation through the natural risk exposure lense* \ with Sophie Cêtre
 
