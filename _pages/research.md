@@ -8,19 +8,20 @@ author_profile: false
 
 **Working papers**
 
-- *Build at your own risk. Integrating natural hazards into land use regulations* [New draft coming soon!]\
+- *Build at your own risk. Integrating natural hazards into land use regulations* [New working paper coming soon!]\
   [Solo-authored]
   <details>
   <summary> Abstract </summary>
-  Insurance coverage provides little incentive for households to adapt their dwellings to the natural risks to which they are exposed. This paper studies the housing market impacts of regulations that  limit development in at-risk areas and mandate protective building norms. Using a novel national dataset and variation in the timing and spatial scope of policy implementation, I provide evidence that these regulations initially strongly limit new housing supply, but the long-term decrease in quantities is modest as the supply elasticity increases. I further show that with full insurance coverage, households do not value adaptation but still negatively value living in risky locations, which evidences risk aversion against natural hazards.
+As climate risks intensify, governments increasingly use building mandates to limit future exposure. I study France's Risk Prevention Plans, which combine public hazard disclosure and mandated resilience standards in a natural-disaster insurance system financed through a regulated surcharge that does not vary with local hazard exposure. I build a near-comprehensive geocoded dataset of plans for mainland France and combine it with property transactions, building permits, and land-use data. Plans reduce new development by 10 to 20\%. Price responses are sharply heterogeneous across hazards. Flood risks are barely capitalized, while shrink--swell risks, a pervasive but understudied hazard, generate economically large discounts and stronger evidence of an adaptation premium. The results show that regulation curbs new development, but price capitalization is driven less by the supply restriction itself than by how buyers perceive and insure the underlying hazard. A within-city spatial-equilibrium framework organizes the mechanisms and provides the basis for counterfactual welfare analysis.
+
   </details>
 <br>
 
-- *Mayors strike back: Evidence from upzoning in France* ([Available here](https://ideas.repec.org/p/hal/wpaper/halshs-05329475.html){:target="_blank"}) \
+- *Mayors strike back: Evidence from land use regulation* (Submitted) [New working paper available upon request] \
   with [Guillaume Chapelle](https://sites.google.com/view/guillaume-chapelle/home){:target="_blank"} and [Camille Urvoy](https://sites.google.com/view/camille-urvoy/home){:target="_blank"}   
   <details>
   <summary> Abstract </summary>
-   To address rising housing prices, national governments have increasingly sought to relax local land use rules through “upzoning” reforms. Yet the effectiveness of such top-down policies remains uncertain. This paper examines the impact of a reform in France that abolished floor area ratios (FAR) from unique zoning data in the Paris Urban area. We exploit within-municipality variation in pre-reform FAR coverage through a difference-in-differences strategy. We show that local governments responded by tightening other regulatory tools, such as maximum heights and building coverage ratios, and increasing permit refusals. These countervailing responses undermined the deregulatory intent of the reform, resulting in negligible effects on real estate markets. Our findings highlight the political and institutional limits of central government efforts to override local zoning decisions.
+While the decentralization literature traditionally frames policy design as a question of optimal authority assignment across governance levels, authority is often shared in practice. This paper studies strategic responses of local governments when a centrally imposed reform affects instruments they partially control. We exploit the 2014 nationwide abolition of floor area ratios in France, a housing policy intended to expand supply and improve affordability. Using detailed data on zoning regulations, building permits, housing density, and prices, we show that municipalities offset the reform by tightening other regulatory instruments remaining under their control, thereby offsetting the reform’s intended effects.
    </details>
 <br>
 
@@ -37,8 +38,8 @@ author_profile: false
 - *A Giant with Feet of Clay: insurance, building standards, and risk capitalization* \
   with Sacha Nass
 
-- *New construction in declining areas: Housing depreciation, historical protection, and urban center decline* \
+- *New construction in declining areas: Depreciation, regulation, and urban center decline* \
   with [François Lafont](sites.google.com/view/francoislafont11/research){:target="_blank"} 
 
-- *Optimal spatial household allocation through the natural risk exposure lense* \ with Sophie Cêtre
+- *An optimal spatial allocation of households through the lense of natural risk exposure* with Sophie Cêtre
 
