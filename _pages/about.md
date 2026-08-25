@@ -25,7 +25,7 @@ I spent Spring 2023 as a visiting scholar at the [Wharton School](https://www.wh
 
 My research lies at the intersection of urban economics and environmental economics. I combine novel granular geospatial data, causal inference methods, and quantitative spatial models to study how land-use regulations shape housing markets and affordability, with a focus on the role of environmental policies in building urban resilience to climate change.
 
-My Job Market Paper studies how land-use regulation can protect cities from natural hazards while reshaping housing supply and prices, evaluating broader welfare effects through spatial reallocation and general-equilibrium responses.
+My Job Market Paper studies natural-risk zoning in France, showing how regulation affects where and how housing is built, how risk is capitalized into prices, and how these responses translate into welfare effects through spatial reallocation and general-equilibrium adjustments.
 
 My CV is available [here](https://www.dropbox.com/scl/fi/vo3fcrx3p1ill60n45c6r/CV_JPV___Current.pdf?rlkey=cuqjnfhq61qjnfoodyw1a0zti&st=m2ru3moz&dl=0){:target="_blank"}.
 
