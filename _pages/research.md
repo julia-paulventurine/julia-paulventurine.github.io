@@ -36,7 +36,7 @@ When a national government relaxes a local regulation, do local officials comply
   ![Difference between observed and regulatory FAR, before and after removal](/images/bunching_cos.png)
   </details>
 
-   
+
 
 - **The Other Half of the Market. Multifamily Land and the Measurement of Urban Land Values in France**
   with [Guillaume Chapelle](https://sites.google.com/view/guillaume-chapelle/home){:target="_blank"}, [Arthur Lemoine](https://fr.linkedin.com/in/arthur-lemoine-b1859b193){:target="_blank"}, [Alain Trannoy](https://perso.amse-aixmarseille.fr/trannoy/){:target="_blank"}, and [Etienne Wasmer](https://sites.google.com/site/etiennewasmer/home){:target="_blank"} (Submitted)
