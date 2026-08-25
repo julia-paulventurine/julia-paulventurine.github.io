@@ -27,7 +27,7 @@ My research lies at the intersection of urban economics and environmental econom
 
 My Job Market Paper studies how land-use regulation can protect cities from natural hazards while reshaping housing supply and prices, evaluating broader welfare effects through spatial reallocation and general-equilibrium responses.
 
-You can find my CV [here](https://www.dropbox.com/scl/fi/cjb5h575ikf9tenfw18m3/CV_JPV___Current.pdf?rlkey=814m3r99fu9ihmz9rchb04yln&st=tx527ate&dl=0](https://www.dropbox.com/scl/fi/vo3fcrx3p1ill60n45c6r/CV_JPV___Current.pdf?rlkey=cuqjnfhq61qjnfoodyw1a0zti&st=m2ru3moz&dl=0){:target="_blank"}.
+You can find my CV [here](https://www.dropbox.com/scl/fi/vo3fcrx3p1ill60n45c6r/CV_JPV___Current.pdf?rlkey=cuqjnfhq61qjnfoodyw1a0zti&st=m2ru3moz&dl=0){:target="_blank"}.
 
 Don't hesitate to reach out at paul-venturine [at] wiso [dot] uni [dash] koeln [dot] de
 
