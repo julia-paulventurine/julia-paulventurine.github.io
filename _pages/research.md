@@ -21,26 +21,28 @@ As climate risks intensify, governments increasingly use building mandates to li
 
 ### Working papers
 
-- *Mayors Strike Back: Evidence from Land Use Regulation* (Submitted)
-  with [Guillaume Chapelle](https://sites.google.com/view/guillaume-chapelle/home){:target="_blank"} and [Camille Urvoy](https://sites.google.com/view/camille-urvoy/home){:target="_blank"}
+- *Mayors Strike Back: Evidence from Land Use Regulation*
+  with [Guillaume Chapelle](https://sites.google.com/view/guillaume-chapelle/home){:target="_blank"} and [Camille Urvoy](https://sites.google.com/view/camille-urvoy/home){:target="_blank"} (Submitted)
   <details>
   <summary>Abstract</summary>
 When a national government relaxes a local regulation, do local officials comply, or find other ways to keep the same rules in place? We study a 2014 French reform that abolished floor area ratios (FAR), a widely used cap on building density, with the explicit goal of expanding housing construction. We assemble a new geospatial panel tracking three zoning tools --- floor area ratios, building heights, and coverage ratios --- over 15 years across 118 municipalities in the Paris region, linked to building permits, housing stock, and transaction prices. Comparing municipalities where FAR existed before the reform to those where it did not, we show that local governments offset the deregulation by tightening the two instruments they retained: maximum heights fell, coverage ratios tightened, and permit denials rose. Density did not increase in previously regulated areas, and we detect no effect on prices, consistent with the limited change in supply. The regulatory tightening was strongest where mayors faced closer elections and where property values are higher, not where mayors belong to parties opposing the reforming government, pointing to electoral accountability rather than partisanship. Top-down deregulation can therefore be substantially undercut when local governments retain complementary instruments, suggesting reforms must either limit local discretion directly or realign local incentives.
   </details>
 
-- *The Other Half of the Market. Multifamily Land and the Measurement of Urban Land Values in France* (Submitted)
-  with [Guillaume Chapelle](https://sites.google.com/view/guillaume-chapelle/home){:target="_blank"}, [Arthur Lemoine](https://fr.linkedin.com/in/arthur-lemoine-b1859b193){:target="_blank"}, [Alain Trannoy](https://perso.amse-aixmarseille.fr/trannoy/){:target="_blank"}, and [Etienne Wasmer](https://sites.google.com/site/etiennewasmer/home){:target="_blank"}
+- *The Other Half of the Market. Multifamily Land and the Measurement of Urban Land Values in France* 
+  with [Guillaume Chapelle](https://sites.google.com/view/guillaume-chapelle/home){:target="_blank"}, [Arthur Lemoine](https://fr.linkedin.com/in/arthur-lemoine-b1859b193){:target="_blank"}, [Alain Trannoy](https://perso.amse-aixmarseille.fr/trannoy/){:target="_blank"}, and [Etienne Wasmer](https://sites.google.com/site/etiennewasmer/home){:target="_blank"} (Submitted)
   <details>
   <summary>Abstract</summary>
 Estimates of urban land values typically rely on plots purchased for single-family houses, the only segment systematically observed in public data. This paper combines the universe of French real-estate transactions with the digitized cadaster to develop a new transaction-level methodology for identifying land acquired for residential development between 2010 and 2019, distinguishing single-family from multifamily parcels. Multifamily parcels account for only 5% of transactions but 55% of new housing units and imply central land values three to four times higher than estimates based on single-family plots alone. Over the decade, adjusted multifamily land prices rose by about 50%, compared with about 10% for single-family land.
   </details>
 
-- *What is France Worth? Residential Land Value Estimates*
-  with [Guillaume Chapelle](https://sites.google.com/view/guillaume-chapelle/home){:target="_blank"}, [Arthur Lemoine](https://fr.linkedin.com/in/arthur-lemoine-b1859b193){:target="_blank"}, [Alain Trannoy](https://perso.amse-aixmarseille.fr/trannoy/){:target="_blank"}, and [Etienne Wasmer](https://sites.google.com/site/etiennewasmer/home){:target="_blank"}
-
 ---
 
 ### Work in progress
+
+- *What is France Worth? Residential Land Value Estimates*
+  with [Guillaume Chapelle](https://sites.google.com/view/guillaume-chapelle/home){:target="_blank"}, [Arthur Lemoine](https://fr.linkedin.com/in/arthur-lemoine-b1859b193){:target="_blank"}, [Alain Trannoy](https://perso.amse-aixmarseille.fr/trannoy/){:target="_blank"}, and [Etienne Wasmer](https://sites.google.com/site/etiennewasmer/home){:target="_blank"}
+
+- *Building in Declining Cities: Housing Depreciation, Historical Protection, and Urban Sprawl* with [François Lafont](https://sites.google.com/view/francoislafont11/research){:target="_blank"}
 
 - *A Giant with Feet of Clay: Disaster Recognition and Risk Capitalization in Housing Markets*
   with Sacha Nass (INSEE)
@@ -51,5 +53,5 @@ Estimates of urban land values typically rely on plots purchased for single-fami
 - *Household Location, Natural Risk Exposure, and Spatial Welfare*
   with Sophie Cêtre (CCR)
 
-- *Building in Declining Cities: Housing Depreciation, Historical Protection, and Urban Sprawl*
-  with [François Lafont](https://sites.google.com/view/francoislafont11/research){:target="_blank"}
+
+
