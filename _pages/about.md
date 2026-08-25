@@ -12,7 +12,7 @@ redirect_from:
 
 </div>
 
-I am a postdoctoral researcher at the University of Cologne, funded by the ERC Project "Housing, Inequality and Public Policy" supervised by [Sebastian Siegloch](https://sites.google.com/view/siegloch/home){:target="_blank"}.
+I am a postdoctoral researcher at the [University of Cologne](https://economics.uni-koeln.de/de/){:target="_blank"}, funded by the ERC Project "Housing, Inequality and Public Policy" supervised by [Sebastian Siegloch](https://sites.google.com/view/siegloch/home){:target="_blank"}.
 
 I obtained a PhD from [Paris School of Economics](https://www.parisschoolofeconomics.eu){:target="_blank"} and [Paris 1 Panthéon-Sorbonne University](https://ed-economie.pantheonsorbonne.fr){:target="_blank"} in December 2025, under the supervision of [Laurent Gobillon](http://laurent.gobillon.free.fr){:target="_blank"} (PSE) and [Pierre-Philippe Combes](https://sites.google.com/view/pierrephilippecombes/){:target="_blank"} (Sciences Po). 
 
@@ -27,8 +27,8 @@ My research lies at the intersection of urban economics and environmental econom
 
 My Job Market Paper studies how land-use regulation can protect cities from natural hazards while reshaping housing supply and prices, evaluating broader welfare effects through spatial reallocation and general-equilibrium responses.
 
-You can find my CV [here](https://www.dropbox.com/scl/fi/vo3fcrx3p1ill60n45c6r/CV_JPV___Current.pdf?rlkey=cuqjnfhq61qjnfoodyw1a0zti&st=m2ru3moz&dl=0){:target="_blank"}.
+My CV is available [here](https://www.dropbox.com/scl/fi/vo3fcrx3p1ill60n45c6r/CV_JPV___Current.pdf?rlkey=cuqjnfhq61qjnfoodyw1a0zti&st=m2ru3moz&dl=0){:target="_blank"}.
 
-Don't hesitate to reach out at paul-venturine [at] wiso [dot] uni [dash] koeln [dot] de
+You can reach out at paul-venturine [at] wiso [dot] uni [dash] koeln [dot] de
 
 ------
