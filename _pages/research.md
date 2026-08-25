@@ -15,10 +15,12 @@ author_profile: false
 As climate risks intensify, governments increasingly use building mandates to limit future exposure. I study France's Risk Prevention Plans, which combine public hazard disclosure and mandated resilience standards in a natural-disaster insurance system where premiums do not vary with exposure. I build a near-comprehensive geocoded dataset of plans for mainland France and combine it with property transactions, building permits, and land-use data. Plans reduce new development at the extensive margin by around 20%, with limited impacts at the intensive margin. Price responses are sharply heterogeneous across hazards. Flood risks are barely capitalized, while shrink--swell risks, a pervasive but understudied hazard, generate economically large discounts and stronger evidence of an adaptation premium. The results show that regulation curbs new development, but price capitalization is driven less by the supply restriction itself than by how buyers perceive and insure the underlying hazard. A within-city spatial-equilibrium framework organizes the mechanisms and provides the basis for counterfactual welfare analysis.
 
   ![Risk Prevention Plan in Hérimoncourt](/images/herimoncourt_zoom.png)
+
+  Broad audience writing (earlier versions of the project): [*Regards Croisés sur l'Economie*](https://blogs.alternatives-economiques.fr/rcerevue/2019/10/14/incendie-de-l-usine-lubrizol-comment-prevenir-les-risques-industriels)
+
   </details>
 
 
-  Earlier broad audience writing: [*Regards Croisés sur l'Economie*](https://blogs.alternatives-economiques.fr/rcerevue/2019/10/14/incendie-de-l-usine-lubrizol-comment-prevenir-les-risques-industriels)
 
 ---
 
@@ -38,7 +40,7 @@ When a national government relaxes a local regulation, do local officials comply
 
 - **The Other Half of the Market. Multifamily Land and the Measurement of Urban Land Values in France**
   with [Guillaume Chapelle](https://sites.google.com/view/guillaume-chapelle/home){:target="_blank"}, [Arthur Lemoine](https://fr.linkedin.com/in/arthur-lemoine-b1859b193){:target="_blank"}, [Alain Trannoy](https://perso.amse-aixmarseille.fr/trannoy/){:target="_blank"}, and [Etienne Wasmer](https://sites.google.com/site/etiennewasmer/home){:target="_blank"} (Submitted)
-  <details>
+  <details markdown="1">
   <summary>Abstract</summary>
 Estimates of urban land values typically rely on plots purchased for single-family houses, the only segment systematically observed in public data. This paper combines the universe of French real-estate transactions with the digitized cadaster to develop a new transaction-level methodology for identifying land acquired for residential development between 2010 and 2019, distinguishing single-family from multifamily parcels. Multifamily parcels account for only 5% of transactions but 55% of new housing units and imply central land values three to four times higher than estimates based on single-family plots alone. Over the decade, adjusted multifamily land prices rose by about 50%, compared with about 10% for single-family land.
 
