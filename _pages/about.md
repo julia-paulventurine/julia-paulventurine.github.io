@@ -21,9 +21,7 @@ I was a 2023 [Palladio Foundation](https://fondationpalladio.fr){:target="_blank
 
 **I am on the 2026–27 economics job market**
 
-My research lies at the intersection of urban economics and environmental economics. I combine novel granular geospatial data, causal inference methods, and quantitative spatial models to study how land-use regulations shape housing markets. My work evaluates the effects of these policies on housing supply, prices, and spatial allocation, and uses quantitative models to assess their broader welfare implications. A central focus of my research is how environmental regulation can increase cities’ resilience to climate change while accounting for housing affordability.
-
-My Job Market Paper studies how land-use regulation can protect cities from natural hazards while reshaping housing supply and prices, evaluating broader welfare effects through spatial reallocation and general-equilibrium responses.
+My research lies at the intersection of urban economics and environmental economics. I combine novel granular geospatial data, causal inference methods, and quantitative spatial models to study how land-use regulations shape housing markets. A central focus of my research is how environmental regulation can increase cities’ resilience to climate change while accounting for housing affordability. My Job Market Paper studies how land-use regulation can protect cities from natural hazards while reshaping housing supply and prices, evaluating broader welfare effects through spatial reallocation and general-equilibrium responses.
 
 You can find my CV [here](https://www.dropbox.com/scl/fi/cjb5h575ikf9tenfw18m3/CV_JPV___Current.pdf?rlkey=814m3r99fu9ihmz9rchb04yln&st=tx527ate&dl=0){:target="_blank"}.
 
