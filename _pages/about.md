@@ -19,7 +19,7 @@ I obtained a PhD from [Paris School of Economics](https://www.parisschoolofecono
 I’m also an affiliate of the [LIEPP](https://www.sciencespo.fr/liepp/fr/){:target="_blank"} in Sciences Po.
 I was a 2023 [Palladio Foundation](https://fondationpalladio.fr){:target="_blank"} fellow
 
-I spent Spring 2023 as a visiting scholar at the [Wharton School](https://www.wharton.upenn.edu){:target="_blank"} of the University of Pennsylvania, sponsored by [Gilles Duranton](https://real-faculty.wharton.upenn.edu/duranton/){:target="_blank"}. I also visited the [FGV EPGE] Brazilian School of Economics and Finance (https://epge.fgv.br/en){:target="_blank"} in Rio de Janeiro in July 2023, hosted by [Sophie Mathes](https://sophie-mathes.com){:target="_blank"}, and [Berlin Quantitative Spatial Economics](https://sites.google.com/view/bqse){:target="_blank"} in July 2026, hosted by [Gabriel Ahlfeldt](https://sites.google.com/view/ahlfeldt/home){:target="_blank"}.
+I spent Spring 2023 as a visiting scholar at the [Wharton School](https://www.wharton.upenn.edu){:target="_blank"} of the University of Pennsylvania, sponsored by [Gilles Duranton](https://real-faculty.wharton.upenn.edu/duranton/){:target="_blank"}. I also visited the [FGV EPGE](https://epge.fgv.br/en){:target="_blank"} Brazilian School of Economics and Finance  in Rio de Janeiro in July 2023, hosted by [Sophie Mathes](https://sophie-mathes.com){:target="_blank"}, and [Berlin Quantitative Spatial Economics](https://sites.google.com/view/bqse){:target="_blank"} in July 2026, hosted by [Gabriel Ahlfeldt](https://sites.google.com/view/ahlfeldt/home){:target="_blank"}.
 
 **I am on the 2026–27 economics job market**
 
