@@ -5,13 +5,10 @@
   display: none;
 }
 
-/* 1. Import Roboto (regular and bold) */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
-/* 2. Override theme defaults */
 body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-               Roboto, Helvetica, Arial, sans-serif;
+  font-size: 13px;
 }
 
 

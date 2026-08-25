@@ -4,6 +4,7 @@
 
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
+<link rel="stylesheet" href="{{ base_path }}/assets/css/custom.css"/>
 
 <!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
 <!--link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
@@ -13,106 +14,5 @@
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/ -->
-
-<!-- load Roboto from Google Fonts -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link
-  href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
-  rel="stylesheet"
-/>
-
-<style>
-
-  .view-mobile {
-    display: none !important;
-  }
-
-  /* apply Roboto everywhere */
-  html, body, h1, h2, h3, h4, h5, h6,
-  p, a, li, blockquote {
-    font-family: 'Roboto', sans-serif !important;
-  }
-
-  /* make the avatar square */
-  .author-profile__avatar,
-  .author-profile__avatar img,
-  img.avatar,
-  .avatar {
-    border-radius: 0 !important;
-    overflow: visible !important;
-  }
-  
-    /* Change all standard and visited links */
-  a,
-  a:visited {
-    color: #D92626  !important;   /* ← put your desired hex here */
-  }
-
-  /* Change hover/focus state */
-  a:hover,
-  a:focus {
-    color: #940000 !important;   /* ← a darker shade for hover */
-  }
-  
-  /* More specific than `img` alone, and loaded last */
-  .portfolio-item img {
-    max-width: 700px !important;
-    width: 100% !important;
-  }
-  
-  .portfolio-description {
-    width: 100% !important;
-    max-width: 700px !important;
-    text-align: left;
-  }
-
-
-  
-  @media (max-width: 700px) {
-
-    .portfolio-list {
-      padding: 0 0.5rem !important;
-    }
-  
-    .portfolio-item {
-      width: 100% !important;
-      max-width: 100% !important;
-      display: flex !important;
-      flex-direction: column !important;
-      margin-bottom: 2rem !important;
-    }
-  
-    .portfolio-item img {
-      display: block !important;
-      width: 100% !important;
-      max-width: 100% !important;
-      object-fit: contain !important;
-    }
-  
-    .portfolio-description {
-      width: 100% !important;
-      max-width: 100% !important;
-      margin: 0 auto !important;
-      text-align: left !important;
-    }
-
-    .portfolio-item h3 {
-      font-size: 1.4rem !important;
-      text-align: center !important;
-    }
-    
-    .view-mobile {
-      display: block !important;
-    }
-  
-    
-  }
-    
-</style>
-
-
-
-
 
 <!-- end custom head snippets -->
