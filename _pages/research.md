@@ -44,8 +44,9 @@ When a national government relaxes a local regulation, do local officials comply
   <summary>Abstract</summary>
 Estimates of urban land values typically rely on plots purchased for single-family houses, the only segment systematically observed in public data. This paper combines the universe of French real-estate transactions with the digitized cadaster to develop a new transaction-level methodology for identifying land acquired for residential development between 2010 and 2019, distinguishing single-family from multifamily parcels. Multifamily parcels account for only 5% of transactions but 55% of new housing units and imply central land values three to four times higher than estimates based on single-family plots alone. Over the decade, adjusted multifamily land prices rose by about 50%, compared with about 10% for single-family land.
 
-  #### Evolution of single-family and multi-family land price
+  #### Evolution of single-family and multi-family land prices in France, 2010-2019
   ![Single-family land prices](/images/landprice_single.png)
+  
   ![Multi-family land prices](/images/landprice_multi.png)
   </details>
 
