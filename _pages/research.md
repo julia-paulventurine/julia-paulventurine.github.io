@@ -54,10 +54,10 @@ Estimates of urban land values typically rely on plots purchased for single-fami
   with Sacha Nass (INSEE)
 
 - *Do Protective Building Codes Reduce Disaster Losses? Evidence from Natural Hazards in France*
-  with Sophie Cètre (CCR)
+  with Sophie Cêtre (CCR)
 
 - *Household Location, Natural Risk Exposure, and Spatial Welfare*
-  with Sophie Cètre (CCR)
+  with Sophie Cêtre (CCR)
 
 - *Building in Declining Cities: Housing Depreciation, Historical Protection, and Urban Sprawl*
   with [François Lafont](https://sites.google.com/view/francoislafont11/research){:target="_blank"}
