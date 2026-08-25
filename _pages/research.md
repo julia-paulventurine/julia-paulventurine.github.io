@@ -14,6 +14,7 @@ author_profile: false
   <summary>Abstract</summary>
 As climate risks intensify, governments increasingly use building mandates to limit future exposure. I study France's Risk Prevention Plans, which combine public hazard disclosure and mandated resilience standards in a natural-disaster insurance system where premiums do not vary with exposure. I build a near-comprehensive geocoded dataset of plans for mainland France and combine it with property transactions, building permits, and land-use data. Plans reduce new development at the extensive margin by around 20%, with limited impacts at the intensive margin. Price responses are sharply heterogeneous across hazards. Flood risks are barely capitalized, while shrink--swell risks, a pervasive but understudied hazard, generate economically large discounts and stronger evidence of an adaptation premium. The results show that regulation curbs new development, but price capitalization is driven less by the supply restriction itself than by how buyers perceive and insure the underlying hazard. A within-city spatial-equilibrium framework organizes the mechanisms and provides the basis for counterfactual welfare analysis.
   </details>
+![Risk Prevention Plan in Hérimoncourt](/images/herimoncourt.png)
 
   Earlier broad audience writing: [*Regards Croisés sur l'Economie*](https://blogs.alternatives-economiques.fr/rcerevue/2019/10/14/incendie-de-l-usine-lubrizol-comment-prevenir-les-risques-industriels)
 
