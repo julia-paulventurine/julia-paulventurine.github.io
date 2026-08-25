@@ -100,4 +100,14 @@ img.avatar,
 
 
 }
+
+/* Supprimer le soulignement des liens */
+a {
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  text-decoration: none;
+}
   
