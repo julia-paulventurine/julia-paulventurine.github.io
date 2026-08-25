@@ -42,7 +42,7 @@ Estimates of urban land values typically rely on plots purchased for single-fami
 - **What is France Worth? Residential Land Value Estimates**
   with [Guillaume Chapelle](https://sites.google.com/view/guillaume-chapelle/home){:target="_blank"}, [Arthur Lemoine](https://fr.linkedin.com/in/arthur-lemoine-b1859b193){:target="_blank"}, [Alain Trannoy](https://perso.amse-aixmarseille.fr/trannoy/){:target="_blank"}, and [Etienne Wasmer](https://sites.google.com/site/etiennewasmer/home){:target="_blank"}
 
-- **Building in Declining Cities: Housing Depreciation, Historical Protection, and Urban Sprawl* with [François Lafont](https://sites.google.com/view/francoislafont11/research){:target="_blank"}
+- **Building in Declining Cities: Housing Depreciation, Historical Protection, and Urban Sprawl** with [François Lafont](https://sites.google.com/view/francoislafont11/research){:target="_blank"}
 
 - **A Giant with Feet of Clay: Disaster Recognition and Risk Capitalization in Housing Markets**
   with Sacha Nass (INSEE)
