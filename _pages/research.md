@@ -21,7 +21,7 @@ As climate risks intensify, governments increasingly use building mandates to li
 
 ### Working papers
 
-- *Mayors Strike Back: Evidence from Land Use Regulation*
+- *Mayors Strike Back: Evidence from Land Use Regulation*(_publications/COS_paper.pdf){:target="_blank"}
   with [Guillaume Chapelle](https://sites.google.com/view/guillaume-chapelle/home){:target="_blank"} and [Camille Urvoy](https://sites.google.com/view/camille-urvoy/home){:target="_blank"} (Submitted)
   <details>
   <summary>Abstract</summary>
