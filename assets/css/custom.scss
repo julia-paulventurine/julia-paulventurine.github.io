@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .portfolio-item img {
   width: 100% !important;      /* fill parent up to max */
-  max-width: 600px !important;  /* cap at 600px or less on larger screens */
+  max-width: 700px !important;  /* cap at 700px or less on larger screens */
   height: auto;
   margin-bottom: 1rem;
   border-radius: 4px;
@@ -65,10 +65,12 @@ img.avatar,
   }
 
   .portfolio-list {
-    padding: 0 1rem !important;
+    padding: 0 0.5rem !important;
   }
 
   .portfolio-item {
+    width: 100% !important;
+    max-width: 100% !important;
     display: flex !important;
     flex-direction: column !important;
     margin-bottom: 2rem !important;
@@ -86,11 +88,13 @@ img.avatar,
   .portfolio-description {
     width: 100% !important;
     max-width: 100% !important;
+    margin: 0 auto !important;
     text-align: left !important;
   }
 
   .portfolio-item h3 {
     font-size: 1.4rem !important;
+    text-align: center !important;
   }
 
   .author__avatar,
@@ -104,6 +108,16 @@ img.avatar,
   }
 
 
+}
+
+a,
+a:visited {
+  color: #D92626 !important;
+}
+
+a:hover,
+a:focus {
+  color: #940000 !important;
 }
 
 a,
