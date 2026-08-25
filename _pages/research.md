@@ -6,14 +6,6 @@ collection: publications
 author_profile: false
 ---
 
-**Primary fields**
-Urban economics · Environmental economics
-
-**Secondary fields**
-Political economy · Public economics
-
----
-
 ### Job Market Paper
 
 - *Build at your own risk. Integrating climate hazards in land use regulations*
