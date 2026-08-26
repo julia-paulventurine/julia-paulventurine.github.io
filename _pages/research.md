@@ -8,7 +8,7 @@ author_profile: false
 
 ### Job Market Paper
 
-- **Build at your own risk. Integrating climate hazards in land use regulations**
+- **Build at your own risk. Integrating climate hazards in land use regulations** [New draft coming soon!] 
   [Solo-authored]
   <details markdown="1">
   <summary>Abstract</summary>
@@ -38,7 +38,7 @@ When a national government relaxes a local regulation, do local officials comply
 
 
 
-- **The Other Half of the Market. Multifamily Land and the Measurement of Urban Land Values in France**
+- **The Other Half of the Market. Multifamily Land and the Measurement of Urban Land Values in France** [Available Upon Request]
   with [Guillaume Chapelle](https://sites.google.com/view/guillaume-chapelle/home){:target="_blank"}, [Arthur Lemoine](https://fr.linkedin.com/in/arthur-lemoine-b1859b193){:target="_blank"}, [Alain Trannoy](https://perso.amse-aixmarseille.fr/trannoy/){:target="_blank"}, and [Etienne Wasmer](https://sites.google.com/site/etiennewasmer/home){:target="_blank"} (Submitted)
   <details markdown="1">
   <summary>Abstract</summary>
