@@ -119,6 +119,18 @@ a:focus {
   color: #940000 !important;
 }
 
+html[data-theme="dark"] {
+  a,
+  a:visited {
+    color: #ff6b6b !important;
+  }
+
+  a:hover,
+  a:focus {
+    color: #ff9999 !important;
+  }
+}
+
 a,
 a:visited,
 a:hover,
