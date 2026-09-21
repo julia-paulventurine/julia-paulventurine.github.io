@@ -8,11 +8,11 @@ author_profile: false
 
 ### Job Market Paper
 
-- **Build at your own risk. Integrating climate hazards in land use regulations** [New draft coming soon!] 
+- **Build at your own risk. The Welfare Effects of Climate Adaptation in Housing Markets** [New draft coming soon!] 
   [Solo-authored]
   <details markdown="1">
   <summary>Abstract</summary>
-As climate risks intensify, governments increasingly use building mandates to limit future exposure. I study France's Risk Prevention Plans, which combine public hazard disclosure and mandated resilience standards in a natural-disaster insurance system where premiums do not vary with exposure. I build a near-comprehensive geocoded dataset of plans for mainland France and combine it with property transactions, building permits, and land-use data. Plans reduce new development at the extensive margin by around 20%, with limited impacts at the intensive margin. Price responses are sharply heterogeneous across hazards. Flood risks are barely capitalized, while shrink--swell risks, a pervasive but understudied hazard, generate economically large discounts and stronger evidence of an adaptation premium. The results show that regulation curbs new development, but price capitalization is driven less by the supply restriction itself than by how buyers perceive and insure the underlying hazard. A within-city spatial-equilibrium framework organizes the mechanisms and provides the basis for counterfactual welfare analysis.
+How do housing markets respond to climate risk regulation? I study France’s Risk Prevention Plans, which combine risk disclosure with mandated adaptation. I focus on shrink swell risk, a pervasive yet low salience hazard. Using geocoded plans linked to property transactions and building permits, I find that they reduce new development and generate contrasting price responses. Existing homes experience price discounts, while homes built under the new standards command a premium, consistent with households valuing adaptation. These results suggest that regulation operates through two opposing forces: disclosure makes risk more salient, while mandated adaptation reduces households’ exposure to it. I quantify these forces using a spatial equilibrium model that separates the two channels. With full adaptation of the housing stock, the combined policy has modest effects on household welfare: net gains from mandated adaptation offset losses from disclosure, indicating that the protection benefits of adaptation outweigh its regulatory costs for households.
 
   ![Risk Prevention Plan in Hérimoncourt](/images/herimoncourt_zoom.png)
 
