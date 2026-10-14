@@ -12,7 +12,7 @@ redirect_from:
 
 </div>
 
-I am a postdoctoral researcher at the [University of Cologne](https://economics.uni-koeln.de/de/){:target="_blank"}, funded by the ERC Project "Housing, Inequality and Public Policy" led by [Sebastian Siegloch](https://sites.google.com/view/siegloch/home){:target="_blank"}.
+I am a postdoctoral researcher at the Department of Economics of the [University of Cologne](https://economics.uni-koeln.de/de/){:target="_blank"}, funded by the ERC Project "Housing, Inequality and Public Policy" led by [Sebastian Siegloch](https://sites.google.com/view/siegloch/home){:target="_blank"}.
 
 I obtained a PhD from [Paris School of Economics](https://www.parisschoolofeconomics.eu){:target="_blank"} and [Paris 1 Panthéon-Sorbonne University](https://ed-economie.pantheonsorbonne.fr){:target="_blank"} in December 2025, under the supervision of [Laurent Gobillon](http://laurent.gobillon.free.fr){:target="_blank"} (PSE) and [Pierre-Philippe Combes](https://sites.google.com/view/pierrephilippecombes/){:target="_blank"} (Sciences Po). 
 
