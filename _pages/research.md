@@ -8,7 +8,7 @@ author_profile: false
 
 ### Job Market Paper
 
-- **Build at your own risk. The Welfare Effects of Climate Adaptation in Housing Markets** [New draft coming soon!] 
+- [**Build at your own risk. The Welfare Effects of Climate Adaptation in Housing Markets**](https://www.dropbox.com/scl/fi/g1yj3hrkrbgaoy9j9cwz2/PPRX_paper.pdf?rlkey=raha4nf0bwwdjzuxq04amxaxi&st=00tia52d&e=1&dl=0) (Preliminary draft) 
   [Solo-authored]
   <details markdown="1">
   <summary>Abstract</summary>
