@@ -14,7 +14,7 @@ author_profile: false
   <summary>Abstract</summary>
 How do housing markets respond to climate risk regulation? I study France’s Risk Prevention Plans, which combine risk disclosure with mandatory adaptation. I focus on shrink-swell risk, a pervasive yet low salience hazard. Using geocoded plans linked to property transactions and building permits, I find that they reduce new development by 9% and generate contrasting price responses. Existing homes experience price discounts of 12%, while homes built under the new standards command a premium of 13%, consistent with households valuing adaptation. These results suggest that regulation operates through two opposing forces: disclosure makes risk more salient, while mandatory adaptation reduces households’ exposure to it. I quantify these forces using a spatial equilibrium model that separates the two channels. With full adjustment of the housing stock, adding regulation to disclosure raises household welfare by 3.2%, indicating that protection benefits outweigh regulatory costs. However, gradual renewal delays these gains. I estimate households' willingness to pay for immediate protection and find it well below the cost of retrofitting existing homes to achieve comparable protection, highlighting a trade-off between the speed and cost of adaptation.
 
-  ![Risk Prevention Plans](/images/.png)
+  ![Risk Prevention Plans](/images/RGA.jpg)
 
   Broad audience writing (earlier versions of the project): [*Regards Croisés sur l'Economie*](https://blogs.alternatives-economiques.fr/rcerevue/2019/10/14/incendie-de-l-usine-lubrizol-comment-prevenir-les-risques-industriels)
 
