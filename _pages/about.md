@@ -23,9 +23,9 @@ I spent Spring 2023 as a visiting scholar at the [Wharton School](https://www.wh
 
 **I am on the 2026–27 economics job market**
 
-My research lies at the intersection of **urban economics** and **environmental economics**. I combine novel granular geospatial data, causal inference methods, and quantitative spatial models to study how **land-use regulations** shape housing markets and affordability, with a focus on the role of environmental policies in building urban **resilience to climate change**.
+My research lies at the intersection of **urban and environmental economics**. I combine novel granular geospatial data, causal inference methods, and quantitative spatial models to study how public policies shape housing markets, land use, and adaptation to climate risks. I am particularly interested in how **risk disclosure and mandatory adaptation policies** influence housing decisions, affordability, and resilience to environmental hazards.
 
-My **Job Market Paper** studies natural-risk zoning in France, showing how regulation affects where and how housing is built, how risk is capitalized into prices, and how these responses translate into welfare effects through spatial reallocation and general-equilibrium adjustments.
+My [**Job Market Paper**](https://www.dropbox.com/scl/fi/g1yj3hrkrbgaoy9j9cwz2/PPRX_paper.pdf?rlkey=raha4nf0bwwdjzuxq04amxaxi&st=00tia52d&dl=0) examines France’s Risk Prevention Plans, which combine risk disclosure with mandatory adaptation requirements. Focusing on shrink-swell risk, I investigate how these policies affect housing development and property prices, and distinguish between the effects of making risks more salient and reducing households’ exposure to them. I then use a spatial equilibrium model to quantify their broader welfare implications.
 
 My CV is available [here](https://www.dropbox.com/scl/fi/vo3fcrx3p1ill60n45c6r/CV_JPV___Current.pdf?rlkey=cuqjnfhq61qjnfoodyw1a0zti&st=m2ru3moz&dl=0){:target="_blank"}.
 
